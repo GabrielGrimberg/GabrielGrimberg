@@ -4,7 +4,7 @@
 
 - I'm a **Software Engineer** with over 2+ years of professional industry experience. 
 
-- I hold a **Bachelor of Science in Computer Science** with **First Class Honours** from Technological university Dublin.
+- I hold a **Bachelor of Science in Computer Science** with **First Class Honours** degree from Technological university Dublin formally known as Dublin Institute of Technology.
 
 - I have been programming since secondary school, with my first project being made using Scratch.
 
