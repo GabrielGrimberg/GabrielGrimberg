@@ -2,7 +2,7 @@
 
 - My name is Gabriel Grimberg.
 
-- I'm a **Software Engineer** with over 3+ years of professional industry experience. 
+- I'm a **Software Engineer** with over 4+ years of professional industry experience. 
 
 - I hold a **Bachelor of Science in Computer Science** with **First Class Honours** degree from Technological University Dublin formally known as Dublin Institute of Technology.
 
